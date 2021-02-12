@@ -2,5 +2,5 @@
 
 
 ``
-pkg 
+pkg install
 ``
