@@ -2,5 +2,6 @@
 
 
 ``
-pkg install
+
+git clone https://github.com/cauzhjsj/Ssdych.git
 ``
